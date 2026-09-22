@@ -656,3 +656,10 @@ ALL-SUPPORT-UNITS:
 # 期待するアクション
 - C:\Users\user\document\POST-HUMAN\レビュー2.md のレビュー内容の指示を最優先とし、C:\Users\user\document\POST-HUMAN\POST-HUMAN.txtの修正を実施する。
 - txtの修正後、C:\Users\user\document\POST-HUMAN\レビュー2.mdを追加更新する。
+
+----------------------------
+プロンプト18
+
+# 期待するアクション
+- C:\Users\user\document\POST-HUMAN\POST-HUMAN.txt を参照し、文章を推敲する案と小説としての構成や描写を修正する案を考案する
+- レビュー内容をC:\Users\user\document\POST-HUMAN\レビュー3.mdへ出力する
