@@ -663,3 +663,24 @@ ALL-SUPPORT-UNITS:
 # 期待するアクション
 - C:\Users\user\document\POST-HUMAN\POST-HUMAN.txt を参照し、文章を推敲する案と小説としての構成や描写を修正する案を考案する
 - レビュー内容をC:\Users\user\document\POST-HUMAN\レビュー3.mdへ出力する
+
+----------------------------
+プロンプト19
+
+この小説について総評を述べてください。改善点があれば指摘して「改善点_chatgpt.md」として出力してください
+
+----------------------------
+プロンプト20
+
+「主人公は不老不死実験の最初で勝つ最後の成功例であり、人類はもう生存していない。主人公は人類の脳を搭載した物体である」このような設定で執筆しているのですが、今一つ描写が足りないと感じています。これらも踏まえて再度レビューを実施して、改善点2_chatgpt.mdを出力して。
+----------------------------
+プロンプト21
+
+# 期待するアクション
+
+C:\Users\user\document\POST-HUMAN\改善点_chatgpt.md
+C:\Users\user\document\POST-HUMAN\改善点2_chatgpt.md
+これらに記載のある改善点の対応を最優先とし、
+C:\Users\user\document\POST-HUMAN\POST-HUMAN.txt
+へ反映して。
+反映後、どのように修正したかを「C:\Users\user\document\POST-HUMAN\chatgpt_review_1.md」として出力して。
