@@ -649,3 +649,10 @@ ALL-SUPPORT-UNITS:
 - ノートへの記述のなかで「主人公はＡＩなのだろう」とミスリードする書き方をした方が複線だと読者に思わせられる.
 - ノートへの記述は"" で囲った方が良い
 - 最後まで読んでも「どんでん返し」という印象が薄い。
+
+----------------------------
+プロンプト17
+
+# 期待するアクション
+- C:\Users\user\document\POST-HUMAN\レビュー2.md のレビュー内容の指示を最優先とし、C:\Users\user\document\POST-HUMAN\POST-HUMAN.txtの修正を実施する。
+- txtの修正後、C:\Users\user\document\POST-HUMAN\レビュー2.mdを追加更新する。
