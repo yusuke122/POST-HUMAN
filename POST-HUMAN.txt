@@ -229,24 +229,21 @@ POST-HUMAN
 
 メマルは動きを停止した。
 
-圭介は動きを停止した。
+啓介は動きを停止した。
 
 奈々は動きを停止した。
 
-コーチは動きを停止した。
+監督は動きを停止した。
 
-診断医は動きを停止した。
+担当医は動きを停止した。
+
+観測の対象が家を出ているあいだ、彼らが動いている必要はない。少年が学校から戻り、もう一度あのドアを開けるまで、家の中はただ静止している。
 
 リビングのテレビに、ログが流れる。
 
-OBSERVATION LOG / MAIN-UNIT
-  SUBJECT: PTHM-001
-  STATUS: only-human-brain / outside
+［ 2XXX.XX.XX　05:03　PTHM-001　正常　観測を継続 ］
 
-  LIVING HUMAN BRAIN ... total: 1
-  IMMORTALITY TRIAL ... success case: 1 / 1 (sole, final)
-
-  SUPPORT-UNITS (standby):
-    father / sister / memaru
-    keisuke / nana / coach / medic
-  NOTE: subject unaware. observation continues.
+やがて画面が切り替わる。ずっと昔の日付のついた、一本のニュースが映る。
+「本日、すべての人類が活動を終了しました。明日より、すべての記録はAIが引き継がれます。」
+その記事を書いたのも、人ではなかった。人類の最後を見届けたのも、人ではなかった。
+ただ一つ残された人間の脳は、自分が最後だと知らないまま、明朝もまた、始発に乗る。
